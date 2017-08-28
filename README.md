@@ -1,0 +1,2 @@
+# SpringBootStandAloneWarExample
+SpringBootStandAloneWarExample hello world
